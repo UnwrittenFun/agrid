@@ -1,0 +1,12 @@
+{
+  "name": "agrid",
+  "version": "1.0.0",
+  "description": "An angular 2 grid + widget system",
+  "main": "index.js",
+  "author": "UnwrittenFun <unwrittenfun@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.2",
+    "rxjs": "^5.0.0-beta.1"
+  }
+}
